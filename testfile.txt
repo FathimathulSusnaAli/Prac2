@@ -1,1 +1,2 @@
 Hello my testing part
+This is a new line
